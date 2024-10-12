@@ -1,0 +1,1 @@
+For this project, I will be creating a webpage from the ground up, applying my knowledge of HTML, CSS, accessibility, and responsive design. By the end, the website will be fully responsive, ensuring it displays properly across various devices and screen sizes, including desktop, tablet, and mobile. The screenshot below shows the expected final appearance of the website.
